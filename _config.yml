@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# GitHub Pages / Jekyll configuration
+# Recommended repository name: at0m1cc.github.io
+
+title: "Игорь Яшкузин — Java Backend Developer"
+description: "Интерактивное резюме Игоря Яшкузина: Java, Spring, SQL и проекты на GitHub."
+lang: ru-RU
+url: "https://at0m1cc.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+# The site uses a custom layout and styles, so a third-party theme is not needed.
+
