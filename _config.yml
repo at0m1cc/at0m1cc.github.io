@@ -10,4 +10,3 @@ markdown: kramdown
 permalink: pretty
 
 # The site uses a custom layout and styles, so a third-party theme is not needed.
-
