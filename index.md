@@ -100,7 +100,7 @@ title: "Резюме"
     <div class="section-heading"><p class="eyebrow">03 / ОБРАЗОВАНИЕ</p><h2 id="education-title">Образование</h2></div>
     <article class="education-card">
       <div class="education-icon" aria-hidden="true">✳</div>
-      <div><p class="education-level">Высшее образование · бакалавриат</p><h3>Уральский государственный экономический университет</h3><p class="muted">Направление подготовки и годы обучения не указаны.</p></div>
+      <div><p class="education-level">Высшее образование · бакалавриат</p><h3>Уральский государственный экономический университет</h3></p></div>
     </article>
   </section>
 
